@@ -96,8 +96,9 @@ namespace fortune2
                     break;
                 }
 
+                int fullNameLen = fullName.Length;
                 double bankRoll = 0;
-                for (int i = 0; i < fullName.Length; i++)
+                for (int i = 0; i < fullNameLen; i++)
                 {
                     if (birthMonth[0] == fullName[i])
                     {
@@ -122,7 +123,7 @@ namespace fortune2
 
 
 
-                Console.Write("Enter Your Favorite ROYGBIV Color (If you do not know ROYGBIV, enter \"Help\" to show a list of ROYGBIV colors):");
+                Console.Write("Enter Your Favorite ROYGBIV Color \n(If you do not know ROYGBIV, enter \"Help\" to show a list of ROYGBIV colors):");
                 string color = Console.ReadLine().ToLower();
                 //ROYGBIV Switch Case conditional
                 string transportation = "";
@@ -141,7 +142,7 @@ namespace fortune2
                 if (color == "help")
                 {
                     Console.Write("ROYGBIV COLORS: \nRed. \nOrange. \nYellow. \nGreen. \nBlue. \nIndigo. \nViolet. \nEnter a ROYGBIV color(Please Type the Color's Full Name): ");
-                    color = Console.ReadLine();
+                    color = Console.ReadLine().ToLower();
                 }
                 switch (color)
                 {
