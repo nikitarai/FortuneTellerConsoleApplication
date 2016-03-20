@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\bin\Debug\fortune2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\obj\Debug\fortune2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\bin\Debug\fortune2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\bin\Debug\fortune2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\obj\Debug\fortune2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortune2\fortune2\obj\Debug\fortune2.pdb
